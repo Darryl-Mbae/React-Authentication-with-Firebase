@@ -9,12 +9,12 @@ import { getAuth,createUserWithEmailAndPassword,sendPasswordResetEmail,GoogleAut
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAdsNv65zUSZt-DCjCrRoyQG2G32zo8U_8",
-  authDomain: "authentication-644e3.firebaseapp.com",
-  projectId: "authentication-644e3",
-  storageBucket: "authentication-644e3.appspot.com",
-  messagingSenderId: "283188252103",
-  appId: "1:283188252103:web:395e84878ae462c170dde2"
+  apiKey:,
+  authDomain: ,
+  projectId:,
+  storageBucket:,
+  messagingSenderId:,
+  appId:
 };
 
 // Initialize Firebase
